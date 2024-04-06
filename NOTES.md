@@ -1,21 +1,25 @@
-EDUCATION
-School *
-Degree
-Start Date *
-End Date *
-Description
+**Education**
+- School *
+- Degree
+- Start Date *
+- End Date *
+- Description
 
 
-WORK EXPERIENCE
-Title * 
-Employment type
+**Work Experience**
+- Title * 
+- Employment type
   - Full-time
   - Part-time
   - Self-employed
   - Freelance
   - Internship
   - Traineeship
-Company name *
-Start Date *
-End Date *
-Description
+- Company name *
+- Start Date *
+- End Date *
+- Description
+
+**Licenses & Certifications**
+
+**Recommendations**
